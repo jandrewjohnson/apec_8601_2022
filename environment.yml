@@ -2,15 +2,15 @@ name: enr-environment
 channels:
   - conda-forge
 dependencies:
+  - pygeoprocessing
+  - natcap.invest
+  - hazelbean
   - numpy
   - scikit-learn
+  - statsmodels
+  - xlrd
   - gdal
   - geopandas
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
   - dask
