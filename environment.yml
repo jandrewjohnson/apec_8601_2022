@@ -13,3 +13,7 @@ dependencies:
   - matplotlib
   - pandas
   - dask
+  - pip
+  - pip:
+    - gekko
+    - hazelbean
