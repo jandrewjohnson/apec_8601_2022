@@ -4,7 +4,6 @@ channels:
 dependencies:
   - pygeoprocessing
   - natcap.invest
-  - hazelbean
   - numpy
   - scikit-learn
   - statsmodels
