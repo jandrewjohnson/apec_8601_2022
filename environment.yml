@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - scikit-learn
   - gdal
   - geopandas
   - psutil
