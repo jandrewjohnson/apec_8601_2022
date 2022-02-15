@@ -1,5 +1,6 @@
-# apec_8601_2022
-Code for APEC 8601: Natural Resource Economics
+# APEC 8601: Natural Resource Economics
+## Applied Economics, University of Minnesota
+### Justin A. Johnson
 
 To launch the fisheries_example.ipynb, click the Binder link below.
 
